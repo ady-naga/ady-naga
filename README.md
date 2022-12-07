@@ -1,3 +1,5 @@
+<img alt="Programming funny" src="https://i.pinimg.com/originals/6c/7e/c7/6c7ec7cbb462babe074fe20ec479fbf8.gif" />
+
 <h1 align="center">Hi 👋, I'm Ady</h1>
 <h3 align="center">A passionate frontend developer from Romaina</h3>
 
