@@ -3,17 +3,17 @@
 <h1 align="center">Hi 👋, I'm Ady</h1>
 <h3 align="center">A passionate frontend developer from Romaina</h3>
 
-- 🔭 I’m currently working on [ProjectM](https://github.com/ady-naga)
+- 🔭 I’m currently working on [ProjectM](https://github.com/ady-zaporojanu)
 
 - 🌱 I’m currently learning **Reactjs and Sass**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ady-naga](https://github.com/ady-naga)
+- 👨‍💻 All of my projects are available at [https://github.com/ady-naga](https://github.com/ady-zaporojanu)
 
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **thetreenaga@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/ady-naga](https://github.com/ady-naga)
+- 📄 Know about my experiences [https://github.com/ady-naga](https://github.com/ady-zaporojanu)
 
 - ⚡ Fun fact **I eat a lot but I don't gain weight**
 
