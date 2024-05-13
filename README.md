@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Reactjs and Sass**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ady-naga](https://github.com/ady-zaporojanu)
+- 👨‍💻 All of my projects are available at [https://github.com/ady-zaporojanu](https://github.com/ady-zaporojanu)
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **thetreenaga@gmail.com**
+- 📫 How to reach me **adyandrey806@@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/ady-naga](https://github.com/ady-zaporojanu)
+- 📄 Know about my experiences [https://github.com/ady-zaporojanu](https://github.com/ady-zaporojanu)
 
 - ⚡ Fun fact **I eat a lot but I don't gain weight**
 
