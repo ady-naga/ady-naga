@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **adyandrey806@@gmail.com**
+- 📫 How to reach me **adyandrey806@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/ady-zaporojanu](https://github.com/ady-zaporojanu)
 
